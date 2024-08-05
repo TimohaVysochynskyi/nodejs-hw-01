@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "cbf5346e-80fc-4994-872a-04294889452a",
+    "name": "Nicolas Murazik DDS",
+    "phone": "221.266.5075 x01306",
+    "email": "Mercedes.Stanton@gmail.com",
+    "job": "Principal Communications Assistant"
+  },
+  {
+    "id": "dd0f7aa7-5a58-43ba-9f7f-9d0f12ff4ca6",
+    "name": "Marie Kautzer",
+    "phone": "(632) 816-4125 x48171",
+    "email": "Pansy.Quitzon@hotmail.com",
+    "job": "Human Paradigm Supervisor"
+  }
+]
